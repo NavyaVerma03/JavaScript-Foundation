@@ -2,7 +2,7 @@
 
 const prompt = require('prompt-sync')();    
 
-let color = prompt("Enter Traffic Light Color: ");
+let color = prompt("Enter Traffic Light Color: ").toLowerCase();
 
 switch (color) {
 
