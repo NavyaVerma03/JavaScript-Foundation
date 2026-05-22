@@ -1,4 +1,4 @@
-// Question: Login system with 3 attempts.
+//  Login system with 3 attempts.
 
 const prompt = require('prompt-sync')();
 

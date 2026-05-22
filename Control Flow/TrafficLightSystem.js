@@ -1,4 +1,4 @@
-// Question: Traffic Light System using switch-case.
+// Traffic Light System using switch-case.
 
 const prompt = require('prompt-sync')();    
 
