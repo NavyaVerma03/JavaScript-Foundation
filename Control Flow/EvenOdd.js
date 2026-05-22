@@ -1,4 +1,4 @@
-// 
+// Check the numbe is even or odd
 const prompt = require('prompt-sync')();
 
 let no = Number(prompt("Enter a number: "));
