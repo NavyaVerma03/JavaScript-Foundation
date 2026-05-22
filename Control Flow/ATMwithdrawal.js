@@ -1,4 +1,4 @@
-// Question: ATM Withdrawal System using conditions.
+//  ATM Withdrawal System using conditions.
 const prompt = require('prompt-sync')();
 
 let bal = Number(prompt("Enter Account Balance:"));
