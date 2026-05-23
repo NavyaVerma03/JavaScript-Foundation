@@ -1,0 +1,8 @@
+// 4. Multiplication Table
+const prompt = require("prompt-sync")();
+
+let num = Number(prompt("Enter a number: "));
+
+for (let i = 1; i <= 10; i++) {
+    console.log(`${num} x ${i} = ${num * i}`);
+}
