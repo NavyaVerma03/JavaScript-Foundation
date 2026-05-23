@@ -8,4 +8,4 @@ for (let i = n; i > 0; i = (i - i % 10) / 10) {
     count++;
 }
 
-console.log("Digits =", count);
+console.log("Digits = ", count);
