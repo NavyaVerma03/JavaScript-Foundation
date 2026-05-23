@@ -1,0 +1,15 @@
+//  Fibonacci Series
+const prompt = require("prompt-sync")();
+
+let n = Number(prompt("Enter number of terms: "));
+
+let a = 0;
+let b = 1;
+
+for (let i = 1; i <= n; i++) {
+    console.log(a);
+
+    let next = a + b;
+    a = b;
+    b = next;
+}

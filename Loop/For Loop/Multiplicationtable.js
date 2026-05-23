@@ -1,4 +1,4 @@
-// 4. Multiplication Table
+//  Multiplication Table
 const prompt = require("prompt-sync")();
 
 let num = Number(prompt("Enter a number: "));

@@ -1,4 +1,4 @@
-// 6. Factorial of a Number
+//  Factorial of a Number
 const prompt = require("prompt-sync")();
 
 let n = Number(prompt("Enter a number: "));

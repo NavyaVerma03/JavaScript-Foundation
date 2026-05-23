@@ -1,4 +1,4 @@
-// 5. Reverse Counting
+//  Reverse Counting
 for (let i = 100; i >= 1; i--) {
     console.log(i);
 }

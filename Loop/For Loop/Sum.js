@@ -1,4 +1,4 @@
-// 3. Sum of Numbers
+//  Sum of Numbers
 const prompt = require("prompt-sync")();
 
 let n = Number(prompt("Enter a number: "));
